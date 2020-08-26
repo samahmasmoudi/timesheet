@@ -2,7 +2,7 @@
     { "table" : "Semaine 1", "rows": [
       { "table": "Samedi", "slot1" : "", "slot2": "", "slot3": "", "slot4": ""},
       { "table": "Dimanche", "slot1" : "", "slot2": "", "slot3": "", "slot4": ""},
-      { "table": "Lundi",  "slot1***" : "idl", "slot2": "idl", "slot3": "", "slot4": "sor"},
+      { "table": "Lundi",  "slot1" : "idl", "slot2": "idl", "slot3": "", "slot4": "sor"},
       { "table": "Mardi", "slot1" : "rpoo", "slot2": "compilation", "slot3": "asd", "slot4": ""},
       { "table": "Mercredi", "slot1" : "asd", "slot2": "", "slot3": "", "slot4": "sor"},
       { "table": "Jeudi",  "slot1" : "asd", "slot2": "rpoo", "slot3": "rpoo", "slot4": ""},
@@ -12,7 +12,7 @@
       { "table": "Semaine 2", "rows": [
         { "table": "Samedi", "slot1" : "", "slot2": "", "slot3": "", "slot4": ""},
         { "table": "Dimanche", "slot1" : "", "slot2": "", "slot3": "", "slot4": ""},
-        { "table": "Lundi",  "slot1***" : "idl", "slot2": "idl", "slot3": "", "slot4": "sor"},
+        { "table": "Lundi",  "slot1" : "idl", "slot2": "idl", "slot3": "", "slot4": "sor"},
         { "table": "Mardi", "slot1" : "rpoo", "slot2": "compilation", "slot3": "asd", "slot4": ""},
         { "table": "Mercredi", "slot1" : "asd", "slot2": "", "slot3": "", "slot4": "sor"},
         { "table": "Jeudi",  "slot1" : "asd", "slot2": "rpoo", "slot3": "rpoo", "slot4": ""},
@@ -22,7 +22,7 @@
       { "table": "Semaine 3", "rows": [
         { "table": "Samedi", "slot1" : "", "slot2": "", "slot3": "", "slot4": ""},
         { "table": "Dimanche", "slot1" : "", "slot2": "", "slot3": "", "slot4": ""},
-        { "table": "Lundi",  "slot1***" : "idl", "slot2": "idl", "slot3": "", "slot4": "sor"},
+        { "table": "Lundi",  "slot1" : "idl", "slot2": "idl", "slot3": "", "slot4": "sor"},
         { "table": "Mardi", "slot1" : "rpoo", "slot2": "compilation", "slot3": "asd", "slot4": ""},
         { "table": "Mercredi", "slot1" : "asd", "slot2": "", "slot3": "", "slot4": "sor"},
         { "table": "Jeudi",  "slot1" : "asd", "slot2": "rpoo", "slot3": "rpoo", "slot4": ""},
